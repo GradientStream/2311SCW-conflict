@@ -2,6 +2,7 @@ import sys
 """
 This script counts lines in standard input
 Input: text from the system
+Author: Lotfi Chaouach
 """
 count = 0
 
